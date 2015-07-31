@@ -23,6 +23,12 @@ Before
 After
 ![After](http://i.imgur.com/4ghAtCM.png)
 
+浮动frame Before
+![浮动frame Before](http://i.imgur.com/Cr86UQu.png)
+
+浮动frame After
+![浮动frame After](http://i.imgur.com/r0dCeGh.png)
+
 开关
 ![开关](http://i.imgur.com/1xzOj1E.png)
 
