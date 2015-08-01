@@ -32,4 +32,8 @@ After
 开关
 ![开关](http://i.imgur.com/1xzOj1E.png)
 
+ps: chrome也是可以用的哟，需要tampermonkey这个extension
+![开关](http://i.imgur.com/1xzOj1E.png)
+![开关](http://i.imgur.com/1xzOj1E.png)
+
 我不是喷子只想和谐的上论坛 ...
