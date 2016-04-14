@@ -37,4 +37,13 @@ ps: chrome也是可以用的哟，需要tampermonkey这个extension
 ![installed](http://i.imgur.com/UoNGBtU.png)
 ![menu](http://i.imgur.com/YsbHMdY.png)
 
+pss: firefox for android有个还在alpha阶段的[usi (User|Unified Script Injector) ](https://addons.mozilla.org/en-US/android/addon/userunified-script-injector/?src=cb-dl-toprated)addon可以支持userscript
+
+用firefox安卓版打开桌面版本的github页面，点击script右上角的raw按钮即可安装（第一次弹出安装提示时需要按取消，在按下raw按钮之后的安装提示的时候再点同意)
+
+![raw](http://i.imgur.com/Etifczm.png)
+
+![安装](http://i.imgur.com/coJeQYg.png)
+![配置](http://i.imgur.com/axviYxM.png)
+
 我不是喷子只想和谐的上论坛 ...
