@@ -8,8 +8,7 @@
 // ==/UserScript==
 
 // 可以自己加的 ^_^ 我这是测试数据而已 不是攻击啊，别喷我
-var penzi = ['唐甬', 'materialist', '西东南北风', 'flying2010', 'dnegel', 'pItt']
-
+var penzi = ['唐甬', 'materialist', '西东南北风', 'flying2010', 'dnegel', 'pItt', 'HitmanYK']
 window.jQuery = window.$ = jQuery
 
 // hide post in 华新鲜事
